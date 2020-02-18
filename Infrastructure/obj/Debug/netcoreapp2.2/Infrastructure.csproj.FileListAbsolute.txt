@@ -1,0 +1,14 @@
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\DataStore.dll
+C:\Users\JasonBuss\code\cohesion-2\Infrastructure\bin\Debug\netcoreapp2.2\DataStore.pdb

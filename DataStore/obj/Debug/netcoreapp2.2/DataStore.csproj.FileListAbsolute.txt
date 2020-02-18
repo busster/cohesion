@@ -1,0 +1,9 @@
+C:\Users\JasonBuss\code\cohesion-2\DataStore\bin\Debug\netcoreapp2.2\DataStore.deps.json
+C:\Users\JasonBuss\code\cohesion-2\DataStore\bin\Debug\netcoreapp2.2\DataStore.dll
+C:\Users\JasonBuss\code\cohesion-2\DataStore\bin\Debug\netcoreapp2.2\DataStore.pdb
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.AssemblyInfoInputs.cache
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.AssemblyInfo.cs
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.dll
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.pdb
+C:\Users\JasonBuss\code\cohesion-2\DataStore\obj\Debug\netcoreapp2.2\DataStore.csprojAssemblyReference.cache
